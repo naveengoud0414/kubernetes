@@ -411,3 +411,8 @@ kubectl get rc -n test-ns
 kubectl delete rc javawebapprc
 kubectl get all -n test-ns
 exit
+ls
+kubectl get all -n test-ns
+kubectl get pods -n test-ns
+vi install.sh 
+vi install.sh 
