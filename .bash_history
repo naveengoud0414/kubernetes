@@ -416,3 +416,100 @@ kubectl get all -n test-ns
 kubectl get pods -n test-ns
 vi install.sh 
 vi install.sh 
+sudo cat /etc/kubernetes/admin.conf 
+kubectl get nodes
+systemctl restart kubelet
+kubectl get nodes
+systemctl restart kubelet
+kubectl get nodes
+kubelet describe nodes
+kubectl  describe nodes
+kubeadm token create --print-join-command
+kubectl get nodes
+kubectl get rc -n test-ns
+kubectl delete rc javawebapprc  -n test-ns
+kubectl get rc -n test-ns
+sudo apt install git -y 
+git --version
+ls
+git init 
+git add .
+git status 
+git commit -m "firstcommit"
+git status 
+git config --global user.email "naveenarvapalli@outlook.com"
+git config --global user.name "naveengoud0414"
+git remote add origin https://github.com/naveengoud0414/kubernetes.git
+git push origin main
+git push origin master
+ls
+vi javawebapp.yml 
+rm -rf javawebapp.yml 
+ls
+kubectl get rc -n test-ns
+kubectl get rs -n test-ns
+kubectl get all test-ns
+kubectl get all -n test-ns
+ls
+vi daemonset.yaml
+kubectl apply -f daemonset.yaml 
+vi daemonset.yaml
+kubectl apply -f daemonset.yaml 
+vi daemonset.yaml
+kubectl apply -f daemonset.yaml 
+vi daemonset.yaml
+kubectl apply -f daemonset.yaml 
+vi daemonset.yaml
+kubectl apply -f daemonset.yaml 
+vi daemonset.yaml
+kubectl apply -f daemonset.yaml 
+vi daemonset.yaml
+kubectl apply -f daemonset.yaml 
+kubectl get ds -n test-ns
+kubectl get ds
+kubectl get pods 
+vi daemonset.yaml 
+kubectl apply -f daemonset.yaml 
+cat daemonset.yaml 
+kubectl get pods 
+kubectl get ds
+vi daemonset.yaml 
+kubectl apply -f daemonset.yaml 
+kubectl get all
+cat daemonset.yaml 
+kubectl get ds
+kubectl get svc 
+git add .
+git status
+git commit -m "second"
+git status
+git push origin master
+vi pod.yml 
+ls
+vi replicset.yaml 
+kubectl apply -f replicset.yaml 
+ls
+cat replicset.yaml 
+cp replicset.yaml deployemnet.yaml
+vi deployemnet.yaml 
+kubectl get rs 
+kubectl get rs -n test-ns
+kubectl delete rs javawebapprs -n test-ns
+kubectl get rs 
+kubectl get rs -n test-ns
+kubectl get rc -n test-ns
+kubectl get rs
+kubectl apply -f deployemnet.yaml 
+vi deployemnet.yaml 
+kubectl apply -f deployemnet.yaml 
+kubectl get rs -n test-ns
+vi deployemnet.yaml 
+kubectl rollout status deployment  javawebapprs -n test-ns
+kubectl rollout history  deployment  javawebapprs -n test-ns
+kubectl rollout history  deployment  javawebapprs -n test-ns --revision 1
+vi deployemnet.yaml 
+kubectl apply -f deployemnet.yaml --record=true
+kubectl rollout history  deployment  javawebapprs -n test-ns
+kubectl rollout history  deployment  javawebapprs -n test-ns --revision 1
+kubectl rollout history  deployment  javawebapprs -n test-ns
+cat deployemnet.yaml 

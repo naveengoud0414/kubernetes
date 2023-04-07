@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1680691424,,"wq"
+|2,0,1680784054,,"wq"
 :se nu
 |2,0,1680688965,,"se nu"
 :q!
@@ -29,230 +29,283 @@
 # Registers:
 
 # File marks:
-'0  34  17  ~/daemonset.yaml
-|4,48,34,17,1680691424,"~/daemonset.yaml"
-'1  17  27  ~/daemonset.yaml
-|4,49,17,27,1680690487,"~/daemonset.yaml"
-'2  17  27  ~/daemonset.yaml
-|4,50,17,27,1680690487,"~/daemonset.yaml"
-'3  7  13  ~/daemonset.yaml
-|4,51,7,13,1680689188,"~/daemonset.yaml"
-'4  7  13  ~/daemonset.yaml
-|4,52,7,13,1680689188,"~/daemonset.yaml"
-'5  7  13  ~/daemonset.yaml
-|4,53,7,13,1680689188,"~/daemonset.yaml"
-'6  7  13  ~/daemonset.yaml
-|4,54,7,13,1680689188,"~/daemonset.yaml"
-'7  22  9  ~/daemonset.yaml
-|4,55,22,9,1680689143,"~/daemonset.yaml"
-'8  22  9  ~/daemonset.yaml
-|4,56,22,9,1680689143,"~/daemonset.yaml"
-'9  19  9  ~/daemonset.yaml
-|4,57,19,9,1680689143,"~/daemonset.yaml"
+'0  21  51  ~/deployemnet.yaml
+|4,48,21,51,1680784054,"~/deployemnet.yaml"
+'1  2  11  ~/deployemnet.yaml
+|4,49,2,11,1680783076,"~/deployemnet.yaml"
+'2  2  11  ~/deployemnet.yaml
+|4,50,2,11,1680783076,"~/deployemnet.yaml"
+'3  2  11  ~/deployemnet.yaml
+|4,51,2,11,1680781993,"~/deployemnet.yaml"
+'4  2  11  ~/deployemnet.yaml
+|4,52,2,11,1680781993,"~/deployemnet.yaml"
+'5  15  17  ~/deployemnet.yaml
+|4,53,15,17,1680781481,"~/deployemnet.yaml"
+'6  15  17  ~/deployemnet.yaml
+|4,54,15,17,1680781481,"~/deployemnet.yaml"
+'7  15  17  ~/deployemnet.yaml
+|4,55,15,17,1680781481,"~/deployemnet.yaml"
+'8  15  17  ~/deployemnet.yaml
+|4,56,15,17,1680781481,"~/deployemnet.yaml"
+'9  15  17  ~/deployemnet.yaml
+|4,57,15,17,1680781481,"~/deployemnet.yaml"
 
 # Jumplist (newest first):
+-'  21  51  ~/deployemnet.yaml
+|4,39,21,51,1680784054,"~/deployemnet.yaml"
+-'  2  11  ~/deployemnet.yaml
+|4,39,2,11,1680783455,"~/deployemnet.yaml"
+-'  2  11  ~/deployemnet.yaml
+|4,39,2,11,1680783076,"~/deployemnet.yaml"
+-'  2  11  ~/deployemnet.yaml
+|4,39,2,11,1680781993,"~/deployemnet.yaml"
+-'  15  17  ~/deployemnet.yaml
+|4,39,15,17,1680781976,"~/deployemnet.yaml"
+-'  15  17  ~/deployemnet.yaml
+|4,39,15,17,1680781976,"~/deployemnet.yaml"
+-'  15  17  ~/deployemnet.yaml
+|4,39,15,17,1680781976,"~/deployemnet.yaml"
+-'  15  17  ~/deployemnet.yaml
+|4,39,15,17,1680781481,"~/deployemnet.yaml"
+-'  1  0  ~/deployemnet.yaml
+|4,39,1,0,1680781381,"~/deployemnet.yaml"
+-'  1  0  ~/deployemnet.yaml
+|4,39,1,0,1680781381,"~/deployemnet.yaml"
+-'  1  0  ~/deployemnet.yaml
+|4,39,1,0,1680781381,"~/deployemnet.yaml"
+-'  1  0  ~/deployemnet.yaml
+|4,39,1,0,1680781381,"~/deployemnet.yaml"
+-'  10  4  ~/replicset.yaml
+|4,39,10,4,1680766162,"~/replicset.yaml"
+-'  10  4  ~/replicset.yaml
+|4,39,10,4,1680766162,"~/replicset.yaml"
+-'  10  4  ~/replicset.yaml
+|4,39,10,4,1680766162,"~/replicset.yaml"
+-'  10  4  ~/replicset.yaml
+|4,39,10,4,1680766162,"~/replicset.yaml"
+-'  10  4  ~/replicset.yaml
+|4,39,10,4,1680766162,"~/replicset.yaml"
+-'  10  4  ~/replicset.yaml
+|4,39,10,4,1680766162,"~/replicset.yaml"
+-'  10  4  ~/replicset.yaml
+|4,39,10,4,1680766162,"~/replicset.yaml"
+-'  10  4  ~/replicset.yaml
+|4,39,10,4,1680766162,"~/replicset.yaml"
+-'  10  4  ~/replicset.yaml
+|4,39,10,4,1680766162,"~/replicset.yaml"
+-'  10  4  ~/replicset.yaml
+|4,39,10,4,1680766162,"~/replicset.yaml"
+-'  10  4  ~/replicset.yaml
+|4,39,10,4,1680766162,"~/replicset.yaml"
+-'  10  4  ~/replicset.yaml
+|4,39,10,4,1680766162,"~/replicset.yaml"
+-'  10  4  ~/replicset.yaml
+|4,39,10,4,1680766162,"~/replicset.yaml"
+-'  10  4  ~/replicset.yaml
+|4,39,10,4,1680766162,"~/replicset.yaml"
+-'  10  4  ~/replicset.yaml
+|4,39,10,4,1680766162,"~/replicset.yaml"
+-'  10  4  ~/replicset.yaml
+|4,39,10,4,1680766162,"~/replicset.yaml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
+-'  21  15  ~/pod.yml
+|4,39,21,15,1680693904,"~/pod.yml"
 -'  34  17  ~/daemonset.yaml
 |4,39,34,17,1680691424,"~/daemonset.yaml"
--'  17  27  ~/daemonset.yaml
-|4,39,17,27,1680691286,"~/daemonset.yaml"
--'  17  27  ~/daemonset.yaml
-|4,39,17,27,1680690487,"~/daemonset.yaml"
--'  7  13  ~/daemonset.yaml
-|4,39,7,13,1680690397,"~/daemonset.yaml"
--'  7  13  ~/daemonset.yaml
-|4,39,7,13,1680690397,"~/daemonset.yaml"
--'  7  13  ~/daemonset.yaml
-|4,39,7,13,1680689188,"~/daemonset.yaml"
--'  22  9  ~/daemonset.yaml
-|4,39,22,9,1680689171,"~/daemonset.yaml"
--'  19  9  ~/daemonset.yaml
-|4,39,19,9,1680689171,"~/daemonset.yaml"
--'  22  9  ~/daemonset.yaml
-|4,39,22,9,1680689171,"~/daemonset.yaml"
--'  19  9  ~/daemonset.yaml
-|4,39,19,9,1680689171,"~/daemonset.yaml"
--'  19  9  ~/daemonset.yaml
-|4,39,19,9,1680689143,"~/daemonset.yaml"
--'  16  6  ~/daemonset.yaml
-|4,39,16,6,1680689063,"~/daemonset.yaml"
--'  19  6  ~/daemonset.yaml
-|4,39,19,6,1680689063,"~/daemonset.yaml"
--'  16  6  ~/daemonset.yaml
-|4,39,16,6,1680689063,"~/daemonset.yaml"
--'  16  6  ~/daemonset.yaml
-|4,39,16,6,1680689063,"~/daemonset.yaml"
--'  16  6  ~/daemonset.yaml
-|4,39,16,6,1680689037,"~/daemonset.yaml"
--'  16  6  ~/daemonset.yaml
-|4,39,16,6,1680688948,"~/daemonset.yaml"
--'  1  5  ~/daemonset.yaml
-|4,39,1,5,1680688867,"~/daemonset.yaml"
--'  1  5  ~/daemonset.yaml
-|4,39,1,5,1680688867,"~/daemonset.yaml"
--'  1  5  ~/daemonset.yaml
-|4,39,1,5,1680688867,"~/daemonset.yaml"
--'  1  5  ~/daemonset.yaml
-|4,39,1,5,1680688867,"~/daemonset.yaml"
--'  1  5  ~/daemonset.yaml
-|4,39,1,5,1680688867,"~/daemonset.yaml"
--'  1  5  ~/daemonset.yaml
-|4,39,1,5,1680688867,"~/daemonset.yaml"
--'  1  5  ~/daemonset.yaml
-|4,39,1,5,1680688842,"~/daemonset.yaml"
--'  3  3  ~/daemonset.yaml
-|4,39,3,3,1680688821,"~/daemonset.yaml"
--'  3  3  ~/daemonset.yaml
-|4,39,3,3,1680688821,"~/daemonset.yaml"
--'  3  3  ~/daemonset.yaml
-|4,39,3,3,1680688821,"~/daemonset.yaml"
--'  3  3  ~/daemonset.yaml
-|4,39,3,3,1680688821,"~/daemonset.yaml"
--'  3  3  ~/daemonset.yaml
-|4,39,3,3,1680688821,"~/daemonset.yaml"
--'  3  3  ~/daemonset.yaml
-|4,39,3,3,1680688821,"~/daemonset.yaml"
--'  3  3  ~/daemonset.yaml
-|4,39,3,3,1680688821,"~/daemonset.yaml"
--'  3  3  ~/daemonset.yaml
-|4,39,3,3,1680688809,"~/daemonset.yaml"
--'  19  25  ~/daemonset.yaml
-|4,39,19,25,1680688682,"~/daemonset.yaml"
--'  19  25  ~/daemonset.yaml
-|4,39,19,25,1680688682,"~/daemonset.yaml"
--'  19  25  ~/daemonset.yaml
-|4,39,19,25,1680688682,"~/daemonset.yaml"
--'  19  25  ~/daemonset.yaml
-|4,39,19,25,1680688682,"~/daemonset.yaml"
--'  19  25  ~/daemonset.yaml
-|4,39,19,25,1680688607,"~/daemonset.yaml"
--'  1  0  ~/daemonset.yaml
-|4,39,1,0,1680688591,"~/daemonset.yaml"
--'  1  0  ~/daemonset.yaml
-|4,39,1,0,1680688591,"~/daemonset.yaml"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
--'  8  0  ~/install.sh
-|4,39,8,0,1680684960,"~/install.sh"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
+-'  34  17  ~/daemonset.yaml
+|4,39,34,17,1680691424,"~/daemonset.yaml"
 
 # History of marks within files (newest to oldest):
+
+> ~/deployemnet.yaml
+	*	1680784051	0
+	"	21	51
+	^	21	52
+	.	21	51
+	+	2	16
+	+	9	17
+	+	2	12
+	+	21	51
+
+> ~/replicset.yaml
+	*	1680766158	0
+	"	10	4
+	^	10	5
+	.	10	4
+	+	1	11
+	+	2	15
+	+	4	19
+	+	1	17
+	+	9	15
+	+	10	4
+
+> ~/pod.yml
+	*	1680693903	0
+	"	21	15
+	^	21	16
+	.	21	15
+	+	13	24
+	+	7	22
+	+	4	30
+	+	8	0
+	+	6	18
+	+	10	8
+	+	11	7
+	+	4	21
+	+	7	19
+	+	10	48
+	+	11	23
+	+	6	0
+	+	4	22
+	+	5	8
+	+	4	22
+	+	11	24
+	+	26	20
+	+	18	2
+	+	16	12
+	+	17	3
+	+	26	10
+	+	21	16
+	+	6	13
+	+	23	6
+	+	21	15
 
 > ~/daemonset.yaml
 	*	1680691423	0
@@ -317,49 +370,6 @@
 	^	8	0
 	.	7	70
 	+	7	70
-
-> ~/replicset.yaml
-	*	1680538882	0
-	"	10	4
-	^	10	5
-	.	10	4
-	+	1	11
-	+	2	15
-	+	4	19
-	+	1	17
-	+	9	15
-	+	10	4
-
-> ~/pod.yml
-	*	1680538611	0
-	"	21	15
-	^	21	16
-	.	21	15
-	+	13	24
-	+	7	22
-	+	4	30
-	+	8	0
-	+	6	18
-	+	10	8
-	+	11	7
-	+	4	21
-	+	7	19
-	+	10	48
-	+	11	23
-	+	6	0
-	+	4	22
-	+	5	8
-	+	4	22
-	+	11	24
-	+	26	20
-	+	18	2
-	+	16	12
-	+	17	3
-	+	26	10
-	+	21	16
-	+	6	13
-	+	23	6
-	+	21	15
 
 > /etc/kubernetes/manifests/nginxpod.yaml
 	*	1680510802	0
