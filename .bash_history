@@ -513,3 +513,163 @@ kubectl rollout history  deployment  javawebapprs -n test-ns
 kubectl rollout history  deployment  javawebapprs -n test-ns --revision 1
 kubectl rollout history  deployment  javawebapprs -n test-ns
 cat deployemnet.yaml 
+ls
+git add * . deployemnet.yaml 
+git commit -m "firstcommit"
+git status
+git push origin master
+git pull
+git push origin master
+git pull master
+git remote add origin1 https://github.com/naveengoud0414/kubernetes.git
+git push  origin1 master
+git pull https://github.com/naveengoud0414/kubernetes.git
+git push  origin1 master
+kubectl get pods -n test-ns
+kubectl delete pods javawebapprs-9ff989db-jp8kb -n test-ns
+kubectl get pods -n test-ns
+kubectl get  deployment -n test-ns
+kubectl delete deployment javawebapprs  -n test-ns
+kubectl get pods -n test-ns
+cp deployemnet.yaml rollingupdate.yaml
+vi rollingupdate.yaml 
+kubectl apply -f rollingupdate.yaml 
+vi rollingupdate.yaml 
+kubectl apply -f rollingupdate.yaml 
+kubectl get  deployment -n test-ns 
+kubectl history deployment -n test-ns
+kubectl rollout  history deployment javawebappdeployment -n test-ns
+kubectl rollout  history deployment javawebappdeployment -n test-ns --revision 1
+cat rollingupdate.yaml 
+vi rollingupdate.yaml 
+kubectl get svc -n test-ns
+kubectl apply -f rollingupdate.yaml 
+exit
+watch kubectl get pods -n test-ns
+exit
+ls
+vi rollingupdate.yaml 
+cp rollingupdate.yaml 
+cp rollingupdate.yaml resourcess.yaml
+vi resourcess.yaml 
+vi rollingupdate.yaml 
+kubectl get deployment -n test-ns
+kubectl delete deployment javawebappdeployment -n test-ns
+kubectl apply -f  rollingupdate.yaml 
+kubectl get all -n test-ns
+kubectl describe pod javawebappdeployment-7bcf9cd5cb-4p4wf -n test-ns
+vi rollingupdate.yaml 
+kubectl apply -f rollingupdate.yaml 
+kubectl get all -n test-ns
+vi rollingupdate.yaml 
+kubectl apply -f rollingupdate.yaml 
+kubectl get all -n test-ns
+vi rollingupdate.yaml 
+exit
+ls
+kubectl apply -f https://github.com/kubernetes-sigs/metrics-server/releases/latest/download/components.yaml
+kubectl get pods
+kubectl get pods -n kube-system
+kubectl get deployment -n kube-system
+kubectl edit deployment metrics-server -n kube-system
+kubectl get pods -n kube-system
+exit
+kubectl get pods
+kubectl get pods -n kube-system
+kubectl get all -n kube-system
+kubectl describe pods metrics-server-6f444555fd-bwpm9  -n kube-system
+kubectl describe pod metrics-server-6f444555fd-bwpm9  -n kube-system
+kubectl get all -n kube-system
+ls
+kubectl get deployement -n kube-system
+kubectl get deployment -n kube-system
+kubectl edit deployment metrics-server -n kube-system
+kubectl get all -n kube-system
+systemctl restart kubelet
+kubectl get all -n kube-system
+kubectl describe pod metrics-server-77c6d6fd47-4wbxg -n kube-system
+kubectl edit deployment metrics-server -n kube-system
+kubectl get all -n kube-system
+kubectl exec metrics-server-77c6d6fd47-4wbxg  -it -n kube-system  default /bin/bash
+kubectl exec pod  metrics-server-77c6d6fd47-4wbxg  -it -n kube-system  default /bin/bash
+kubectl exec pods  metrics-server-77c6d6fd47-4wbxg  -it -n kube-system  default /bin/bash
+kubectl exec pods  metrics-server-77c6d6fd47-4wbxg -n kube-system  default /bin/bash
+kubectl exec  metrics-server-77c6d6fd47-4wbxg -n kube-system  default /bin/bash
+kubectl exec  metrics-server-77c6d6fd47-4wbxg -n kube-system   /bin/bash
+kubectl exec pods  metrics-server-77c6d6fd47-4wbxg -n kube-system   /bin/bash
+kubectl describe pods metrics-server-77c6d6fd47-4wbxg -n kube-system
+kubectl exec  metrics-server-77c6d6fd47-4wbxg -n kube-system   /bin/bash
+kubectl get deployment -n test-ns 
+kubectl delete deployment javawebappdeployment -n test-ns
+kubectl get all -n kube-system
+kubectl top pod -A
+kubectl delete pods metrics-server-6f444555fd-bwpm9 -n kube-system
+kubectl get all -n kube-system
+kubectl top pod -A
+kubectl get deployment -n kube-system
+kubectl get all -n kube-system
+kubectl top pod -A
+kubectl  deployment -n kube-system
+kubectl get   deployment -n kube-system
+kubectl delete deployment metrics-server -n kube-system
+kubectl get   deployment -n kube-system
+kubectl get all -n kube-system
+kubectl apply -f https://github.com/kubernetes-sigs/metrics-server/releases/latest/download/high-availability-1.21+.yaml
+kubectl get all -n kube-system
+kubectl get deployment -n kube-system
+kubectl edit deployment metrics-server -n kube-system
+kubectl get deployment -n kube-system
+kubectl get all -n kube-system
+kubectl get top -A
+kubectl get top pod  -A
+kubectl top pod -A
+kubectl get all -n kube-system
+kubectl edit deployment metrics-server -n kube-system
+kubectl top pod -A
+kubectl edit deployment metrics-server -n kube-system
+kubectl get all -n kube-system
+kubectl top pod -A
+kubectl get all -n kube-system
+kubectl top pod -A
+kubectl delete -f https://github.com/kubernetes-sigs/metrics-server/releases/latest/download/high-availability-1.21+.yaml
+kubectl get pods -n kube-system
+git clone https://github.com/MithunTechnologiesDevOps/metrics-server.git
+cd metrics-server/
+cd ..
+vi hpadeployment.yaml
+kubectl apply -f hpadeployment.yaml 
+vi hpadeployment.yaml
+kubectl apply -f hpadeployment.yaml 
+vi hpadeployment.yaml
+kubectl apply -f hpadeployment.yaml 
+kubectl get all
+
+curl 10.109.5.57
+vi hpadeployment.yaml
+kubectl apply -f hpadeployment.yaml 
+kubectl get all
+kubectl apply -f hpadeployment.yaml 
+kubectl get all
+vi hpadeployment.yaml
+kubectl apply -f hpadeployment.yaml 
+kubectl get all
+curl 10.109.5.57 
+vi hpadeployment.yaml 
+curl 10.109.5.57 
+kubectl get all
+wget -q -0- http://hpaclusterservice
+wget -q -o- http://hpaclusterservice
+kubectl run -it load-generator --rm --image=busybox /bin/bash
+kubectl get pos
+kubectl get pods
+kubectl delete pods load-generator
+kubectl get pods
+kubectl run -it load-generator --rm --image=busybox /bin/bash
+kubectl run -it load-generator --rm --image=busybox /bin/sh
+vi hpadeployment.yaml 
+kubectl get hpa
+kubectl apply -f hpadeployment.yaml 
+vi hpadeployment.yaml 
+kubectl resources
+kubectl --help
+vi hpadeployment.yaml 
