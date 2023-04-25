@@ -673,3 +673,124 @@ vi hpadeployment.yaml
 kubectl resources
 kubectl --help
 vi hpadeployment.yaml 
+kubectl get pods
+git add .
+git init
+git add .
+git status
+git commit -m "third commit"
+git push origin master
+exit
+kubectl get all
+ls
+vi hpadeployment.yaml 
+kubectl apply -f hpadeployment.yaml 
+vi hpadeployment.yaml 
+kubectl api-resources
+vi hpadeployment.yaml 
+kubectl apply -f hpadeployment.yaml 
+vi hpadeployment.yaml 
+kubectl apply -f hpadeployment.yaml 
+vi hpadeployment.yaml 
+kubectl apply -f hpadeployment.yaml 
+vi hpadeployment.yaml 
+kubectl apply -f hpadeployment.yaml 
+kubectl get hpa
+kubectl get svc
+kubectl get deployment
+cat hpadeployment.yaml 
+kubectl get hpa
+ls
+vi pod.yml 
+cat deployemnet.yaml 
+ls
+cat pod.yml 
+cat deployemnet.yaml 
+ls
+vi resourcess.yaml 
+ls
+vi replicset.yaml 
+vi deployemnet.yaml 
+vi rollingupdate.yaml 
+kubectl apply -f rollingupdate.yaml 
+vi rollingupdate.yaml 
+kubectl apply -f rollingupdate.yaml 
+vi rollingupdate.yaml 
+kubectl apply -f rollingupdate.yaml 
+kubectl get svc -n test-ns
+kubectl get hpa -n test-ns
+kubectl get all -n test-ns
+kubectl describe svc javawebappsvc  -n test-ns
+kubectl describe hpa javawebapphpadeploymentautoscaler -n test-ns
+vi mongodb.yaml
+kubectl apply of mongodb.yaml 
+kubectl apply -f mongodb.yaml 
+vi mongodb.yaml
+kubectl apply -f mongodb.yaml 
+vi mongodb.yaml
+kubectl apply -f mongodb.yaml 
+vi mongodb.yaml
+kubectl apply -f mongodb.yaml 
+vi mongodb.yaml
+kubectl apply -f mongodb.yaml 
+vi mongodb.yaml
+kubectl apply -f mongodb.yaml 
+vi mongodb.yaml
+kubectl apply -f mongodb.yaml 
+vi mongodb.yaml
+kubectl apply -f mongodb.yaml 
+vi mongodb.yaml
+kubectl apply -f mongodb.yaml 
+vi mongodb.yaml
+kubectl apply -f mongodb.yaml 
+vi mongodb.yaml 
+kubectl apply -f mongodb.yaml 
+vi mongodb.yaml 
+kubectl apply -f mongodb.yaml 
+vi mongodb.yaml 
+kubectl apply -f mongodb.yaml 
+vi mongodb.yaml 
+kubectl apply -f mongodb.yaml 
+kubectl delete all --all
+kubectl get svc -n test-ns
+vi mongodb.yaml 
+cat mongodb.yaml 
+kubectl get all -n test-ns
+ls
+kubectl get pods -n test-ns
+ls
+vi deployemnet.yaml 
+kubectl rc -n test-ns
+kubectl get  rc -n test-ns
+kubectl get all -n test-ns
+kubectl get pods -n test-ns
+ls
+vi deployemnet.yaml 
+vi re
+vi resourcess.yaml 
+kubectl get svc -n test-ns
+vi resourcess.yaml 
+kubectl delete svc javawebappsvc -n test-ns
+kubectl get svc -n test-ns
+kubectl get all -n test-ns
+kubectl get svc -n test-ns
+kubectl get all -n test-ns
+kubectl get deployment -n test-ns
+kubectl delete javawebappdeployment -n test-ns
+kubectl delete deployment  javawebappdeployment -n test-ns
+ls
+kubectl get deployment -n test-ns
+kubectl get all -n test-ns
+exit
+ls
+vi mongodb.yaml 
+kubectl get rs -n test-ns
+kubectl delete rs mongodbrs -n test-ns
+kubectl get pods
+kubectl get pods -n test-ns
+kubectl apply -f mongodb.yaml 
+kubectl get pods -n test-ns
+ls
+exit
+kubectl get pods -n test-ns -o wide
+cat mongodb.yaml 
